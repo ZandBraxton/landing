@@ -137,3 +137,36 @@ label {
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
 }
+
+h1 {
+    text-align: left;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    border-bottom: rgb(206, 203, 203) solid;
+    
+}
+
+.contact {
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding-top: 100px;
+    color: aliceblue;
+}
+
+.aboutp {
+    text-align: left;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;  
+}
+
+#video {
+    padding-top: 20px;
+}
